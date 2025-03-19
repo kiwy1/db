@@ -1,1 +1,0 @@
-SELECT name FROM goods ORDER BY ASC;

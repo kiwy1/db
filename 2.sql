@@ -1,1 +1,0 @@
-SELECT name, (price * 9 + price * 0.5) AS discounted_price_for_10 FROM goods;
